@@ -12,7 +12,8 @@ Python concepts, Pillow library and Tkinter package has  been used to develop th
 ![Image Editor](https://user-images.githubusercontent.com/97299411/150683009-e27cdeb4-a3e8-42bb-addf-c3ac1bae754a.png)
 
 ### Image before editing
-![Image_before](https://user-images.githubusercontent.com/97299411/150683021-59b9b861-57f3-4d5a-b514-af4c015db067.jpg)
+![Image_before (1)](https://user-images.githubusercontent.com/97299411/150683277-92bb18e8-a85d-4061-b645-9720483858a2.png)
+
 
 ### Image after editing
 ![Image_after](https://user-images.githubusercontent.com/97299411/150683020-ff59ab14-b233-42c9-849f-bb221d349a39.jpg)
